@@ -12,6 +12,10 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
+=======
+    "react-icons": "^4.11.0",
+>>>>>>> 83525717defd75f990f90c67a692c426772c2664
     "react-spinners": "^0.13.8"
   },
   "devDependencies": {
